@@ -1,4 +1,4 @@
-# Computer Networking (Spring 2023) - Course Assignment Repository
+# Computer Networking (Spring 2024) - Course Assignment Repository
 
 
 ## Description
