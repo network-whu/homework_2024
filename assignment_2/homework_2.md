@@ -4,7 +4,7 @@ send your homework via a pull-request of the repository: https://github.com/netw
 
 **All hand-in homework must be in office word `.docx` format**
 
-## deadline: Tuesday, week 4
+## deadline: Tuesday, Week 4
 
 Problems of Chapter 1: P8, P25
 

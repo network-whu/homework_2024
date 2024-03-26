@@ -4,7 +4,7 @@ send your homework via a pull-request of the repository: https://github.com/netw
 
 **All hand-in homework must be in office word `.docx` format**
 
-## deadline: Tuesday, week 3
+## deadline: Tuesday, Week 3
 
 1. ping another computer
 2. tracert a server
