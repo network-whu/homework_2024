@@ -6,6 +6,10 @@ send your homework via a pull-request of the repository: https://github.com/netw
 
 ## deadline: Tuesday, Week 17
 
-Problems of Chapter 6: P17, P19
+Lab: https://www.github.com/network-whu/lab/
+8.Wireshark_Ethernet_ARP.docx
+
+All your hand-in lab reports should be combined into a single document.
+
 
 

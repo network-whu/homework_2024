@@ -6,6 +6,6 @@ send your homework via a pull-request of the repository: https://github.com/netw
 
 ## deadline: Tuesday, Week 16
 
-Problems of Chapter 6: P1, P5
+Problems of Chapter 6: P1, P5, P17, P19
 
 
